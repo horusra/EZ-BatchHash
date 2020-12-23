@@ -18,8 +18,8 @@ Download the zip
 Install:
 
 Open the zip and run install.reg
-![install](https://i.imgur.com/oJIxgrN.gif)
+![install](https://i.imgur.com/w22mlxG.gif)
 
 Copy "Batch" folder to: "C:\Program Files":
 
-![copy files](https://i.imgur.com/dT1dJ44.gif)
+![copy files](https://i.imgur.com/fNSFcdg.gif)
